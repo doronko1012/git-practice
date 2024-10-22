@@ -133,7 +133,7 @@ main {
 
 .sub-contents-box {
   width: 400px; /* 横幅300px */
-  height: 400px; /* 高さ300px */
+  height: 300px; /* 高さ300px */
   margin: 0px; /* 四方に隙間を5px設定 */
 }
 
